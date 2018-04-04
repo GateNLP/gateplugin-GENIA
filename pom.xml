@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>genia</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>GENIA</name>
+	<description>GATE wrapper for the GENIA biomedical sentence splitter</description>
 
 	<licenses>
 		<license>
