@@ -4,17 +4,17 @@
       <gate.creole.Plugin-Maven>
         <group>uk.ac.gate.plugins</group>
         <artifact>annie</artifact>
-        <version>8.5-SNAPSHOT</version>
+        <version>8.5</version>
       </gate.creole.Plugin-Maven>
       <gate.creole.Plugin-Maven>
         <group>uk.ac.gate.plugins</group>
         <artifact>tagger-framework</artifact>
-        <version>8.5-SNAPSHOT</version>
+        <version>8.5</version>
       </gate.creole.Plugin-Maven>
       <gate.creole.Plugin-Maven>
         <group>uk.ac.gate.plugins</group>
         <artifact>genia</artifact>
-        <version>8.5-SNAPSHOT</version>
+        <version>8.5</version>
       </gate.creole.Plugin-Maven>
     </localList>
     <collectionType>java.util.ArrayList</collectionType>
@@ -228,13 +228,13 @@
                 <entry>
                   <string>preProcessURL</string>
                   <gate.util.persistence.PersistenceManager-RRPersistence>
-                    <uriString>creole://uk.ac.gate.plugins;tagger-framework;8.5-SNAPSHOT/resources/tagger-independent/sentencestring.jape</uriString>
+                    <uriString>creole://uk.ac.gate.plugins;tagger-framework;8.5/resources/tagger-independent/sentencestring.jape</uriString>
                   </gate.util.persistence.PersistenceManager-RRPersistence>
                 </entry>
                 <entry>
                   <string>postProcessURL</string>
                   <gate.util.persistence.PersistenceManager-RRPersistence>
-                    <uriString>creole://uk.ac.gate.plugins;tagger-framework;8.5-SNAPSHOT/resources/tagger-independent/chunkandentity-annots.jape</uriString>
+                    <uriString>creole://uk.ac.gate.plugins;tagger-framework;8.5/resources/tagger-independent/chunkandentity-annots.jape</uriString>
                   </gate.util.persistence.PersistenceManager-RRPersistence>
                 </entry>
               </localMap>
